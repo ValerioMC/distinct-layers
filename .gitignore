@@ -28,9 +28,11 @@ nbdist
 dist
 tmp
 out-tsc
+ui-src
 
 ### Dependencies ###
 node_modules
+node
 
 ### IDE - VSCode ###
 .vscode/*
